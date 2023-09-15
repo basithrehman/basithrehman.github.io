@@ -67829,10 +67829,10 @@ $0(){A.p0(this.a,!1).Bd(null)
 return null},
 $S:0}
 A.a9s.prototype={
-$0(){return A.nB(A.dz("https://api.whatsapp.com/send?phone=923460159889",0,null))},
+$0(){return A.nB(A.dz("https://api.whatsapp.com/send?phone=913460159889",0,null))},
 $S:0}
 A.a9t.prototype={
-$0(){return A.nB(A.dz("https://www.upwork.com/freelancers/~0197b0f6aaeba9675f",0,null))},
+$0(){return A.nB(A.dz("https://www.upwork.com/freelancers/",0,null))},
 $S:0}
 A.lx.prototype={
 H(a){var s,r=null,q=A.e6(a,!0,t.R),p=$.RB
